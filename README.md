@@ -1,3 +1,4 @@
+![cover image](cover.png)
 # laser-maze
 Design for the hardware of a small laser maze
 
